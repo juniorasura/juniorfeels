@@ -5,13 +5,16 @@
 font-family: 'Roboto', sans-serif; */
 
 body {
-    color: #8f9bad;
-    background-color: #fff;
+    color: #a7afbb;
+    background-color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     line-height: 1.7;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
+}
+#logo-me{
+    width: 200px;
 }
 
 img {

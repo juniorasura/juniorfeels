@@ -1,0 +1,25 @@
+.bpost{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#pokhara-img{
+    width: 700px;
+}
+.p-p{
+    padding: 35px 120px;
+    color: black;
+    align-items: center;
+    text-align: justify;
+}
+
+@media (max-width: 600px) {
+.p-p{
+    color:black;
+    padding: 35px 50px;
+}
+#pokhara-img{
+    width: 500px;
+}
+}
